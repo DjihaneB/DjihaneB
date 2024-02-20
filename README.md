@@ -13,10 +13,7 @@
 I'm a passionate web developer currently focused on honing my skills and building exciting projects.
 
 
-      <p align="left">
-      <a href="https://linkedin.com/in/djihane bouizem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="djihane bouizem" height="30" width="40" /></a>
-      <a href="https://www.leetcode.com/bouizemdjihane1312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bouizemdjihane1312" height="30" width="40" /></a>
-      </p>
+    
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 <br>
