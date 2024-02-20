@@ -12,11 +12,7 @@
 
 I'm a passionate web developer currently focused on honing my skills and building exciting projects.
 
-- 🔭 I’m currently working on [APPfc](https://github.com/DjihaneB/AppFC)
-- 🌱 I’m currently learning **Python**
-- 👨‍💻 All of my projects are available at [https://github.com/DjihaneB](https://github.com/DjihaneB)
-- 📫 How to reach me: [bouizemdjihane1312@gmail.com](mailto:bouizemdjihane1312@gmail.com)
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/16O89hwlbMlO99ARudr-PKu0HrgmnidR4/view?usp=drive_link)
+
       <p align="left">
       <a href="https://linkedin.com/in/djihane bouizem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="djihane bouizem" height="30" width="40" /></a>
       <a href="https://www.leetcode.com/bouizemdjihane1312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bouizemdjihane1312" height="30" width="40" /></a>
